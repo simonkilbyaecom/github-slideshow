@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Standing on the shoulders of giants
 Use the left arrow to go back!
