@@ -14,3 +14,4 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 
 
 Test adding new item using vscode.
+Test adding second item using vscode.
